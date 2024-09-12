@@ -8,6 +8,6 @@
 <body>
     register
 
-    <!-- adding new line, this is it -->
+    <!-- adding new line, this is from the BRANCH 2 -->
 </body>
 </html>
