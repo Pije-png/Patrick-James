@@ -7,7 +7,5 @@
 </head>
 <body>
     register
-
-    <!-- adding new line, this is it -->
 </body>
 </html>
